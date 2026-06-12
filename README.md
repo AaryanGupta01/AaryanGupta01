@@ -1,4 +1,4 @@
-````markdown
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4B0082,25:6A0DAD,50:7F00FF,75:4F46E5,100:2563EB&text=Aaryan%20Gupta&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=55"/>
 </p>
@@ -319,4 +319,3 @@ Open To:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4B0082,25:6A0DAD,50:7F00FF,75:4F46E5,100:2563EB"/>
 </p>
-````
