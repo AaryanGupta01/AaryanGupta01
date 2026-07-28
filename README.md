@@ -77,13 +77,6 @@
 
 <br />
 
-<div align="center">
-  <!-- Gamified GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=AaryanGupta01&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="Aaryan's Trophies" />
-</div>
-
-<br />
-
 ### 🐍 Contribution Activity
 <div align="center">
   <!-- Ensure the URL below matches your exact working snake URL! -->
