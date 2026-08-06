@@ -1,24 +1,17 @@
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=AARYAN%20GUPTA&fontSize=52&fontColor=00F2FE&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20·%20AI%20%2F%20ML%20·%20Full-Stack&descAlignY=58&descColor=E0E0E0" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:a8edea,100:fed6e3&height=230&section=header&text=AARYAN%20GUPTA&fontSize=52&fontColor=1a1a2e&animation=fadeIn&fontAlignY=40&desc=Data%20Science%20·%20AI%20%2F%20ML%20·%20Full-Stack&descAlignY=58&descColor=333333" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=230&section=header&text=AARYAN%20GUPTA&fontSize=52&fontColor=00F2FE" alt="header banner" width="100%"/>
-</picture>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=00F2FE&background=00000000&center=true&vCenter=true&width=600&lines=root%40aaryan%3A~%24+whoami;%3E+building+AI+%2B+data+products;%3E+shipping+full-stack+apps;%3E+status%3A+always_learning" alt="Typing SVG"/>
-
+  <h1>Hi there, I'm Aaryan Gupta👋</h1>
+  <h3>Developer | DATA SCIENCE | AI & Machine Learning Enthusiast | Problem Solver</h3>
 </div>
 
-<br/>
+---
 
-<table>
-<tr>
-<td width="60%" valign="top">
+### 🚀 About Me
+* 🔭 I’m currently building and experimenting with **AI applications, data analysis tools, and interactive web platforms**.
+* 💡 Passionate about **Computer Science, Software Engineering, and Full-Stack Development**.
+* 🎓 Always learning new frameworks, algorithms, and technologies to solve real-world problems.
+* 📫 How to reach me: **aaryang0108@gmail.com**
 
-### 🧠 `whoami`
-
-<details open>
+<details>
 <summary><b>▸ click to expand — running <code>cat about.log</code></b></summary>
 <br/>
 
@@ -35,19 +28,52 @@
 
 </details>
 
-</td>
-<td width="40%" valign="top">
+---
 
-### 📌 Quick Facts
-- 🔭 Building **AI + data tools**
-- 💡 Full-stack dev at heart
-- 🌱 Always leveling up
-- 📫 `aaryang0108@gmail.com`
-- ⚡ Fun fact: my code works and I have no idea why
+### 💻 Tech Stack & Tools
 
-</td>
-</tr>
-</table>
+#### ⚡ Programming Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+</div>
+<br />
+
+#### 🌐 Frontend, Backend & Web Frameworks
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</div>
+<br />
+
+#### 🗄️ Databases & Cloud
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
+</div>
+<br />
+
+#### 🤖 AI, Data Science & Geospatial
+<div align="center">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-LLMs%20%26%20RAG-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI / ML / RAG" />
+  <img src="https://img.shields.io/badge/Google%20Earth%20Engine-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="Google Earth Engine" />
+</div>
+<br />
+
+#### 🛠️ Version Control & IoT Hardware
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 IoT" />
+</div>
 
 ---
 
@@ -70,7 +96,6 @@ mindmap
       Jupyter
       LLMs / RAG
       Google Earth Engine
-      Pandas / NumPy
     Infra
       MongoDB
       MySQL
@@ -80,78 +105,22 @@ mindmap
       ESP32 IoT
 ```
 
-> Rendered natively by GitHub — no image, no badge, just Mermaid. Click-and-drag on desktop.
-
 ---
 
-### ⚙️ Toolbox
-
+### 📊 GitHub Stats & Activity
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,html,css,react,flask,mongodb,mysql,aws,git,github&theme=dark" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/LLMs%20%2F%20RAG-FF6F00?style=flat-square&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Google%20Earth%20Engine-0F9D58?style=flat-square&logo=google&logoColor=white" />
-<img src="https://img.shields.io/badge/ESP32%20IoT-E7352C?style=flat-square&logo=espressif&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
-
+  <!-- Stable mirror for GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=AaryanGupta01&theme=radical" alt="Aaryan's GitHub Streak" />
 </div>
-
----
-
-### 📊 The Numbers
-
+<br />
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AaryanGupta01&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AaryanGupta01&show_icons=true&theme=default&hide_border=true&bg_color=00000000" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AaryanGupta01&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AaryanGupta01&theme=tokyonight&hide_border=true&background=00000000" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=AaryanGupta01&theme=default&hide_border=true&background=00000000" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=AaryanGupta01&theme=tokyonight&hide_border=true" alt="Streak"/>
-</picture>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AaryanGupta01&theme=tokyo-night&hide_border=true&bg_color=00000000&area=true" width="92%" alt="Activity Graph"/>
-
+  <!-- Reliable Dynamic Activity Line Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaryanGupta01&bg_color=141321&color=00f2fe&line=00f2fe&point=00f2fe&area=true&hide_border=true" alt="Aaryan's Activity Graph" width="90%" />
 </div>
+<br />
 
----
-
-### 🐍 Live Contribution Snake
-
+### 🐍 Contribution Activity
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AaryanGupta01/AaryanGupta01/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AaryanGupta01/AaryanGupta01/output/github-contribution-grid-snake.svg" />
-  <img src="https://raw.githubusercontent.com/AaryanGupta01/AaryanGupta01/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</picture>
-
-<sub>⚠️ Needs the snake-generation GitHub Action running on this repo — see note below.</sub>
-
-</div>
-
----
-
-<div align="center">
-
-### 📬 Let's Build Something
-
-<a href="mailto:aaryang0108@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/AaryanGupta01"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:fed6e3,100:a8edea&height=100&section=footer" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
-</picture>
-
+  <!-- Ensure the URL below matches your exact working snake URL! -->
+  <img src="https://github.com/AaryanGupta01/AaryanGupta01/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
