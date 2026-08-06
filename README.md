@@ -77,6 +77,28 @@
 
 <br />
 
+### 📊 GitHub & LeetCode Stats
+<div align="center">
+  <!-- Stable mirror for GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=AaryanGupta01&theme=radical" alt="Aaryan's GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- LeetCode Stats Card -->
+  <img src="https://leetcard.jacoblin.cool/dK2M1F2URY?theme=dark&font=baloo&ext=activity" alt="Aaryan's LeetCode Stats" />
+</div>
+
+<br />
+
+<div align="center">
+  <!-- Reliable Dynamic Activity Line Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaryanGupta01&bg_color=141321&color=00f2fe&line=00f2fe&point=00f2fe&area=true&hide_border=true" alt="Aaryan's Activity Graph" width="90%" />
+</div>
+
+<br />
+
 ### 🐍 Contribution Activity
 <div align="center">
   <!-- Ensure the URL below matches your exact working snake URL! -->
