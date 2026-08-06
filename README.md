@@ -2,7 +2,6 @@
   <h1>Hi there, I'm Aaryan Gupta👋</h1>
   <h3>Developer | DATA SCIENCE | AI & Machine Learning Enthusiast | Problem Solver</h3>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=00F2FE&background=00000000&center=true&vCenter=true&width=600&lines=root%40aaryan%3A~%24+whoami;%3E+Developer+%7C+Data+Scientist+%7C+AI%2FML+Enthusiast;%3E+building+AI+%2B+data+products;%3E+status%3A+always_learning" alt="Typing SVG"/>
 </div>
 
 ---
@@ -13,22 +12,6 @@
 * 🎓 Always learning new frameworks, algorithms, and technologies to solve real-world problems.
 * 📫 How to reach me: **aaryang0108@gmail.com**
 
-<details>
-<summary><b>▸ click to expand — running <code>cat about.log</code></b></summary>
-<br/>
-
-```
-[00:01] booting profile...
-[00:02] role      → Developer · Data Scientist · AI/ML Enthusiast
-[00:03] currently → building AI apps, data pipelines, web platforms
-[00:04] obsessed  → LLMs, RAG pipelines, geospatial data, IoT
-[00:05] learning  → new frameworks & algorithms, weekly
-[00:06] contact   → aaryang0108@gmail.com
-[00:07] status    → probably debugging with print() right now
-[00:08] process complete. no errors. (mostly)
-```
-
-</details>
 
 ---
 
