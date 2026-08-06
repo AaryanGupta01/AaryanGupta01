@@ -1,107 +1,74 @@
 <div align="center">
-  <h1>Hi there, I'm Aaryan Gupta👋</h1>
-  <h3>Developer | DATA SCIENCE | AI & Machine Learning Enthusiast | Problem Solver</h3>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=00F2FE&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Aaryan+Gupta+👋;Developer+%7C+Data+Science+%7C+AI;Full-Stack+Engineer;Problem+Solver" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Always%20Learning-000000?style=for-the-badge&logo=google-scholar&logoColor=white&color=141321"/>
+  <img src="https://img.shields.io/badge/Building%20for%20the%20Web-000000?style=for-the-badge&logo=code-igniter&logoColor=00F2FE&color=141321"/>
 </div>
 
 ---
 
 ### 🚀 About Me
-* 🔭 I’m currently building and experimenting with **AI applications, data analysis tools, and interactive web platforms**.
-* 💡 Passionate about **Computer Science, Software Engineering, and Full-Stack Development**.
-* 🎓 Always learning new frameworks, algorithms, and technologies to solve real-world problems.
+
+* 🔭 Currently building **interactive web platforms, AI applications, and embedded IoT systems**.
+* 💡 Passionate about **Computer Science, Full-Stack Development**, and diving deep into **automata theory and digital logic design**.
+* 🛠️ Constantly experimenting with new frameworks to solve real-world problems.
+* 🎭 When I'm not coding, I'm probably scripting comedic animal animations or exploring hardware integrations.
 * 📫 How to reach me: **aaryang0108@gmail.com**
 
 ---
+
 ### 💻 Tech Stack & Tools
 
-#### ⚡ Programming Languages
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/SQL-316192?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL" />
+  <!-- Unified Skill Icons for a cleaner, colorful look -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,java,js,html,css,react,flask,mongodb,mysql,aws,git,github&theme=dark&perline=14" alt="My Skills" />
+  </a>
 </div>
 
 <br />
 
-#### 🌐 Frontend, Backend & Web Frameworks
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-</div>
-
-<br />
-
-#### 🗄️ Databases & Cloud
-<div align="center">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-</div>
-
-<br />
-
-#### 🤖 AI, Data Science & Geospatial
-<div align="center">
+  <!-- Custom Badges for specific niche tools -->
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
   <img src="https://img.shields.io/badge/AI%20%2F%20ML-LLMs%20%26%20RAG-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI / ML / RAG" />
   <img src="https://img.shields.io/badge/Google%20Earth%20Engine-0F9D58?style=for-the-badge&logo=google&logoColor=white" alt="Google Earth Engine" />
-</div>
-
-<br />
-
-#### 🛠️ Version Control & IoT Hardware
-<div align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32 IoT" />
 </div>
 
 ---
-### 📊 GitHub Stats & Activity
+
+### 🔥 Featured Projects
+
+| 🌍 **VibeMap India** | 🏢 **Raipur Venue Hub** | 🚨 **IoT Emergency System** |
+| :--- | :--- | :--- |
+| A travel and cuisine simulation web application engineered to map and explore regional vibes and culture. | A single-file web platform for browsing and booking restaurant and hotel event venues in Raipur City, featuring a customer negotiation system and client-side PDF document generation. | An embedded internet-of-things reporting prototype utilizing an ESP32 microcontroller integrated with a real-time web dashboard. |
+
+---
+
+### 📊 Developer Analytics
+
 <div align="center">
-  <!-- Stable mirror for GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=AaryanGupta01&theme=radical" alt="Aaryan's GitHub Streak" />
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com/?user=AaryanGupta01&theme=radical&hide_border=true&background=141321" alt="Aaryan's GitHub Streak" />
 </div>
 
 <br />
 
 <div align="center">
   <!-- Reliable Dynamic Activity Line Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaryanGupta01&bg_color=141321&color=00f2fe&line=00f2fe&point=00f2fe&area=true&hide_border=true" alt="Aaryan's Activity Graph" width="90%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaryanGupta01&bg_color=141321&color=00f2fe&line=00f2fe&point=00f2fe&area=true&hide_border=true" alt="Aaryan's Activity Graph" width="100%" />
 </div>
-
-<br />
-
-### 📊 GitHub & LeetCode Stats
-<div align="center">
-  <!-- Stable mirror for GitHub Streak Stats -->
-  <img src="https://streak-stats.demolab.com/?user=AaryanGupta01&theme=radical" alt="Aaryan's GitHub Streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <!-- LeetCode Stats Card -->
-  <img src="https://leetcard.jacoblin.cool/dK2M1F2URY?theme=dark&font=baloo&ext=activity" alt="Aaryan's LeetCode Stats" />
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Reliable Dynamic Activity Line Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaryanGupta01&bg_color=141321&color=00f2fe&line=00f2fe&point=00f2fe&area=true&hide_border=true" alt="Aaryan's Activity Graph" width="90%" />
-</div>
-
-<br />
 
 ### 🐍 Contribution Activity
-<div align="center">
-  <!-- Ensure the URL below matches your exact working snake URL! -->
-  <img src="https://github.com/AaryanGupta01/AaryanGupta01/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
+<div align="center">
+  <!-- Snake Animation -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/AaryanGupta01/AaryanGupta01/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/AaryanGupta01/AaryanGupta01/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/AaryanGupta01/AaryanGupta01/blob/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
