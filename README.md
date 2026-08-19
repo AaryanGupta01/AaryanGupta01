@@ -93,7 +93,11 @@ mindmap
 ---
 
 ### 📊 GitHub Stats & Activity
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AaryanGupta01)](https://git.io/streak-stats)
+<div align="center"> 
+<!-- Official GitHub Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AaryanGupta01&theme=radical" alt="Aaryan's GitHub Streak" />
+</div>
+<br />
 
   <!-- Reliable Dynamic Activity Line Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AaryanGupta01&bg_color=141321&color=00f2fe&line=00f2fe&point=00f2fe&area=true&hide_border=true" alt="Aaryan's Activity Graph" width="90%" />
