@@ -95,7 +95,7 @@ mindmap
 ### 📊 GitHub Stats & Activity
 <div align="center"> 
 <!-- Official GitHub Streak Stats -->
-<img src="https://demolab.com" alt="Aaryan's GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=AaryanGupta01" alt="Aaryan's GitHub Streak" />
 </div>
 <br />
 
